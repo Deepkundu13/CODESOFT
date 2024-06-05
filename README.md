@@ -1,2 +1,2 @@
-# codesoft
-landing page
+# CODESOFT
+Landing Page
